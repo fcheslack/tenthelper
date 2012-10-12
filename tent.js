@@ -516,9 +516,5 @@ tentApp.prototype.getPostAttachment = function(postid, attachmentName, callback)
     });
 };
 
-
 exports.tentApp = tentApp;
 
-
-
-// .load ./tentrequests.js
